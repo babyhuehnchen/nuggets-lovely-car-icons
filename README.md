@@ -8,5 +8,5 @@ Rounded Thumbnails for Cars in GTA:V in 128x128
 </ul>
 <p class="has-line-data" data-line-start="4" data-line-end="5">Server permanently blacklisted from using any of my content:</p>
 <ul>
-<li class="has-line-data" data-line-start="5" data-line-end="6">end-state (Anti-competetive practises, Stealing of scripts)</li>
+<li class="has-line-data" data-line-start="5" data-line-end="6">end-state (Anti-competetive practises, Stealing of scripts, discriminatory forum posts by staff)</li>
 </ul>
