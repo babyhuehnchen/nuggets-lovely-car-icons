@@ -1,5 +1,5 @@
 # nuggets-lovely-car-icons
-Rounded Thumbnails for Cars in GTA:V in 128x128
+Thumbnails for Cars in GTA:V in 128x128
 
 <p class="has-line-data" data-line-start="0" data-line-end="1">Servers currently permitted to use this iconpack:</p>
 <ul>
